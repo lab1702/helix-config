@@ -1,6 +1,6 @@
 # helix-config
 
-My Helix Editor Configuration
+Please see [config.toml](config.toml) for my very basic Helix configuration.
 
 ## Prerequisites
 
