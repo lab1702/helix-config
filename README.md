@@ -21,3 +21,13 @@ I use Fira Code [Nerd Font](https://www.nerdfonts.com/) in my terminal windows.
 ### R
 
 Install the [languageserver](https://cran.r-project.org/package=languageserver) package from CRAN.
+
+### Python
+
+When using pip:
+
+    pip install "python-lsp-server[all]"
+
+When using Anaconda:
+
+    conda install -c conda-forge python-lsp-server
